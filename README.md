@@ -1,7 +1,22 @@
 <<<<<<< HEAD
 
 Student Performance Prediction(Machine Learning)
-This Projetc predicts student Performance categories using teh amchine learning
+
+# Project Overview 
+This Projetc predicts student Performance categories (low,medium ,high) using the machine learning techniques.
+
+## Technologies Used
+-Python
+-Pandas
+-Numpy
+-Matplotlib
+-seaborn
+-Sckit-learn
+## Machine Learning Model
+Decision Tree Classifier
+
+## Accuracy 
+97.7%
 
 #FEATURES USED
 -Study Time
@@ -20,16 +35,20 @@ This Projetc predicts student Performance categories using teh amchine learning
  5.Machine Learning model Training
  6.Model Evaluation uisng accuracy and confusion Matrix
  
-## Modle MAtrix
-Decision Tree Classifier
-## Accuracy 
-979.7%
+
+
 ##Visualization
 -Score distribution 
+![Score Distribution](plots/final_Score_distribution.png)
+
 -Performance categories
+![Performance Categories](plots/performance_categories.png)
+
 -Confusion matrix 
+![Confusion Matrix](plots/confusion_matrix.png)
+
 -Feature Importance 
+![Feature Importance](plots/feature_importance.png)
+
 =======
-# Student-Performance-Prediction-Machine-Learning-
-Student performance prediction using machine learning with EDA, visualization, and Decision Tree classification.
->>>>>>> 013713dde07e092db760c5d9ee63a427df86b1c1
+
