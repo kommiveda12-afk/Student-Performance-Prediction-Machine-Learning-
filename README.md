@@ -42,7 +42,7 @@ Decision Tree Classifier
 ![Score Distribution](plots/final_score_distribution.png)
 
 -Performance categories
-![Performance Categories](plots/performance_categories.png)
+![Performance Categories](plots/peformance_categories.png)
 
 -Confusion matrix 
 ![Confusion Matrix](plots/confusion_matrix.png)
