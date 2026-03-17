@@ -39,7 +39,7 @@ Decision Tree Classifier
 
 ##Visualization
 -Score distribution 
-![Score Distribution](plots/final_Score_distribution.png)
+![Score Distribution](plots/final_score_distribution.png)
 
 -Performance categories
 ![Performance Categories](plots/performance_categories.png)
